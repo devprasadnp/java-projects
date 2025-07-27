@@ -14,7 +14,6 @@ This is a simple Spring Boot application demonstrating caching using Spring Cach
 - [API Endpoints](#api-endpoints)
 - [Caching Details](#caching-details)
 - [Notes](#notes)
-- [License](#license)
 
 ---
 
@@ -116,12 +115,6 @@ The application will start on [http://localhost:8080](http://localhost:8080).
 - Add your database credentials and settings if you switch from in-memory DB.
 
 - Feel free to extend this project with more complex caching strategies or distributed caches.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
